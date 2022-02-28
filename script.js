@@ -27,16 +27,18 @@ fruits.forEach(item => {
     console.log((typeof Boolean))
 })
 
-let fruits = {
+let fruits =  [{
    name: "Peter",
    Lastname: "Parker" ,
    age: 34
 },
 {
-    name: Lily,
-    Lastname: RoseDepp,
-}
-   
+    name: "Lily",
+    Lastname: "RoseDepp",
+    age: 34
+}  ]
+
+
 
 
 
