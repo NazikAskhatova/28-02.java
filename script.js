@@ -27,7 +27,7 @@ fruits.forEach(item => {
     console.log((typeof item))
 })
 
-let students =  [{
+let cards =  [{
    name: "Beomgyu",
    Lastname: "Choi " ,
    age: 20
@@ -60,8 +60,7 @@ let students =  [{
 
 ]
 
-let cards = document.
-
+let cardsWith = document.querySelector('#choi')
 
 
 
