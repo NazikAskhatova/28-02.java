@@ -24,19 +24,43 @@ false,
 // integer
 
 fruits.forEach(item => {
-    console.log((typeof Boolean))
+    console.log((typeof item))
 })
 
-let fruits =  [{
-   name: "Peter",
-   Lastname: "Parker" ,
-   age: 34
+let students =  [{
+   name: "Beomgyu",
+   Lastname: "Choi " ,
+   age: 20
 },
 {
     name: "Lily",
-    Lastname: "RoseDepp",
-    age: 34
-}  ]
+    Lastname: "Rose Depp",
+    age: 22
+} ,
+{
+    name: "Enhypen",
+    Lastname: "Rookies",
+    age: 2
+},
+{
+    name: "Kim",
+    Lastname: "Sunoo" ,
+    age: 19
+ },
+ {
+     name: "Ash",
+     Lastname: "Links",
+     age: 17
+ } ,
+ {
+     name: "T X T",
+     Lastname: "Chaotic talented kids",
+     age: 3
+ }
+
+]
+
+let cards = document.
 
 
 
